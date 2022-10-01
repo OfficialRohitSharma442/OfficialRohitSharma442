@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialrohitsharma442&label=Profile%20views&color=0e75b6&style=flat" alt="officialrohitsharma442" /> </p>
 <div style ="align:center">
 
-<img src="https://imgs.search.brave.com/gyin7aJgV2OTUHIR7AsgH1JdY0V1BK9bDbI3ok20bg0/rs:fit:1080:592:1/g:ce/aHR0cHM6Ly9kZXZl/bG9wZXJzLmdpcGh5/LmNvbS9icmFuY2gv/bWFzdGVyL3N0YXRp/Yy9hcGktYzk5ZTM1/M2Y3NjFkMzE4MzIy/Yzg1M2MwM2ViY2Yy/MWIuZ2lm.gif" alt="coding" width="400" height="350">
+<img align="center" src="https://imgs.search.brave.com/gyin7aJgV2OTUHIR7AsgH1JdY0V1BK9bDbI3ok20bg0/rs:fit:1080:592:1/g:ce/aHR0cHM6Ly9kZXZl/bG9wZXJzLmdpcGh5/LmNvbS9icmFuY2gv/bWFzdGVyL3N0YXRp/Yy9hcGktYzk5ZTM1/M2Y3NjFkMzE4MzIy/Yzg1M2MwM2ViY2Yy/MWIuZ2lm.gif" alt="coding" width="400" height="350">
 </div>
 - 🔭 I’m currently working on **Data Atructure And Algorithm**
 
