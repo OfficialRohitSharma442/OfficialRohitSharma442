@@ -1,19 +1,19 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Rohit!](https://github.com/OfficialRohitSharma442) 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/rohitkumar29/">
+<a href="https://www.linkedin.com/in/rohit-sharma-785179220/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/rohitbishnoixD">
+<a href="https://twitter.com/Rohit_sharma442">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:rohitbishnoi127@gmail.com">
+<a href="mailto:officialrohitsharma442@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/rohitbishnoi29">
+<a href="https://www.instagram.com/officialRohitsharma442/">
 <img align="left" alt="rohit | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
