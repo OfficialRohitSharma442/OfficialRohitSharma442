@@ -72,3 +72,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=OfficialRohitSharma442&theme=github"/>
 </div>
+![Snake animation](https://github.com/{{OfficialRohitSharma442}}/{{OfficialRohitSharma442}}/blob/output/github-contribution-grid-snake.svg)
