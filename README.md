@@ -23,7 +23,7 @@
 
 ### About Me 🚀
 
-Hi, i'm [Roghit Sharma](https://www.linkedin.com/in/OfficialRohitSharma442/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Rohit Sharma](https://www.linkedin.com/in/rohit-sharma-785179220/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/OfficialRohitSharma442)
 
@@ -32,9 +32,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
 - 🦋 Don't be a programmer, Be a problem solver.
-- 🌱 I’m currently learning **[Java](https://github.com/OfficialRohitSharma442/Data-Structures-and-Algorithms), [DSA](https://github.com/OfficialRohitSharma442/Data-Structures-and-Algorithms) & MERN** 
-- 💬 Ask me about **[Java](https://github.com/OfficialRohitSharma442/Data-Structures-and-Algorithms), [DSA](https://github.com/OfficialRohitSharma442/Data-Structures-and-Algorithms), JavaScript && MERN Stack** 
-- 📫 Reach out to me at **[`@rohit`](mailto:rohitbishnoi127@gmail.com)** 
+- 🌱 I’m currently learning **[Java](https://github.com/OfficialRohitSharma442/java-practic-basic), [DSA](https://github.com/OfficialRohitSharma442/java-practic-basic) & MERN** 
+- 💬 Ask me about **[Java](https://github.com/OfficialRohitSharma442/java-practic-basic), [DSA](https://github.com/OfficialRohitSharma442/java-practic-basic), JavaScript && MERN Stack** 
+- 📫 Reach out to me at **[`@rohit`](mailto:officialrohitsharma442@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
