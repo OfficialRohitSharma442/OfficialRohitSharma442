@@ -70,6 +70,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=OfficialRohitSharma442&theme=github"/>
+
+
+
+![snake gif](https://github.com/OfficialRohitSharma442/OfficialRohitSharma442/blob/output/github-contribution-grid-snake.gif)
+ <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=OfficialRohitSharma442&theme=github"/>
 </div>
-<!-- ![Snake animation](https://github.com/{{OfficialRohitSharma442}}/{{OfficialRohitSharma442}}/blob/output/github-contribution-grid-snake.svg) -->
