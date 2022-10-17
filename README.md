@@ -34,7 +34,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🦋 Don't be a programmer, Be a problem solver.
 - 🌱 I’m currently learning **[Java](https://github.com/OfficialRohitSharma442/java-practic-basic), [DSA](https://github.com/OfficialRohitSharma442/java-practic-basic) & MERN** 
 - 💬 Ask me about **[Java](https://github.com/OfficialRohitSharma442/java-practic-basic), [DSA](https://github.com/OfficialRohitSharma442/java-practic-basic), JavaScript && MERN Stack** 
-- 📫 Reach out to me at **[`@rohit`](mailto:officialrohitsharma442@gmail.com)** 
+- 📫 Reach out to me at **<a href="mailto:officialrohitsharma442@gmail.com">[`@rohit`]</a>** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
