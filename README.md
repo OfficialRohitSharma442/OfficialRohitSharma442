@@ -67,8 +67,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br/>
  
  <summary>Activity Graph</summary>
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)]
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=github-dark)]
 <div align="center">
 
