@@ -71,6 +71,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=nightowl)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialRohitSharma442&theme=material-palenight)](https://git.io/streak-stats)
+![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=github-dark)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
 <div align="center">
