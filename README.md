@@ -66,26 +66,104 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br/>
 <br/>
  
-<summary>Activity Graph</summary>
+**🐱 Activity Graph 🐱**
 
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=nightowl)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialRohitSharma442&theme=material-palenight)](https://git.io/streak-stats)
+**🐱 My GitHub Data** 
 
+> 📦 265.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,792 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 68 Public Repositories 
+ > 
+> 🔑 48 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+<br>
+<br>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialRohitSharma442&theme=material-palenight)](https://git.io/streak-stats)
+  
+  <br>
+  
+  ![Alt](https://repobeats.axiom.co/api/embed/41085959e4a12ca3ca45a88985ffee63809f31ca.svg "Repobeats analytics image")
+
+<br>
+<div align="center" >
 <img height="100px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png?raw=true" />
 <img height="100px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/mars-2020-contributor-default.png?raw=true" />
 <img height="100px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" />
 <img height="100px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/public-sponsor-default.png?raw=true" />
 <img height="100px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" />
+  </div>
 
-![Alt](https://repobeats.axiom.co/api/embed/41085959e4a12ca3ca45a88985ffee63809f31ca.svg "Repobeats analytics image")
 
 
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=github-dark)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
-<div align="center">
+
+```text
+🌞 Morning                4591 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+🌆 Daytime                15858 commits       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌃 Evening                30713 commits       █████████████░░░░░░░░░░░░   50.47 % 
+🌙 Night                  9695 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   10210 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Tuesday                  9606 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Wednesday                8114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Thursday                 6985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   6296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Saturday                 6799 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   12847 commits       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+```
 
 
-![snake gif](https://github.com/OfficialRohitSharma442/OfficialRohitSharma442/blob/output/github-contribution-grid-snake.gif)<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=OfficialRohitSharma442&theme=github"/>
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    36 hrs 36 mins      ████████████████░░░░░░░░░   65.50 % 
+TypeScript               15 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+JavaScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+SCSS                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+🔥 Editors: 
+Chrome                   36 hrs 30 mins      ████████████████░░░░░░░░░   65.32 % 
+VS Code                  19 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   34.68 % 
+
+💻 Operating System: 
+Windows                  55 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               47 repos            ██████████░░░░░░░░░░░░░░░   40.87 % 
+TypeScript               37 repos            ████████░░░░░░░░░░░░░░░░░   32.17 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+
+ Last Updated on 02/03/2024 00:53:23 UTC
+<!--END_SECTION:waka-->
+
+<div>
+
+
+
 </div>
+<!--![snake gif](https://github.com/OfficialRohitSharma442/OfficialRohitSharma442/blob/output/github-contribution-grid-snake.gif)<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=OfficialRohitSharma442&theme=github"/> 
