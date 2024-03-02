@@ -67,7 +67,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br/>
  
  <summary>Activity Graph</summary>
+
+ [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=github-dark)]
+(https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 <div align="center">
 
 
