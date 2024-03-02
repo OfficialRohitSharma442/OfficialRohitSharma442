@@ -72,7 +72,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialRohitSharma442&theme=material-palenight)](https://git.io/streak-stats)
+[image]{https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png?raw=true)
 ![Alt](https://repobeats.axiom.co/api/embed/41085959e4a12ca3ca45a88985ffee63809f31ca.svg "Repobeats analytics image")
+
 
 [![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=github-dark)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
