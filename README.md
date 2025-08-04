@@ -69,7 +69,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  
 **🐱 Activity Graph 🐱**
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=nightowl)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OfficialRohitSharma442&theme=dracula)](https://github.com/OfficialRohitSharma442/github-readme-activity-graph)
 
 
 # 💻 Tech Stack:
