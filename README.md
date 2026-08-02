@@ -83,7 +83,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/ocean.gif" alt="Snake Animation" />
 </p>
 
 
