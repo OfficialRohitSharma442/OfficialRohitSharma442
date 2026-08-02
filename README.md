@@ -90,6 +90,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   </picture>
 </p>
 
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OfficialRohitSharma442&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=OfficialRohitSharma442&theme=tokyonight&hide_border=true"/>
+</p>
+
 ### ✍️ Quote Of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
