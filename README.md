@@ -83,9 +83,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/ocean.gif" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OfficialRohitSharma442/OfficialRohitSharma442/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 
 ### ✍️ Quote Of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
