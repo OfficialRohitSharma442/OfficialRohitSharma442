@@ -108,6 +108,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ---
 [![](https://visitcount.itsvg.in/api?id=OfficialRohitSharma442&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OfficialRohitSharma442&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 **🐱 My GitHub Data** 
 
 > 📦 265.7 kB Used in GitHub's Storage 
