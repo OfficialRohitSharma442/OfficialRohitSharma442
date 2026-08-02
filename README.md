@@ -93,9 +93,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### ✍️ Quote Of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OfficialRohitSharma442&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Summary
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfficialRohitSharma442&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfficialRohitSharma442&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OfficialRohitSharma442&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OfficialRohitSharma442&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OfficialRohitSharma442&theme=tokyonight&utcOffset=5.5)
 ### 😂 Today's Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
