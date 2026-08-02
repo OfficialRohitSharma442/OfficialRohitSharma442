@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Next.js+%7C+Node.js+%7C+AWS+%7C+Docker;Building+Scalable+Enterprise+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=#4493f8&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Next.js+%7C+Node.js+%7C+AWS+%7C+Docker;Building+Scalable+Enterprise+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Rohit!](https://github.com/OfficialRohitSharma442) 
